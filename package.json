@@ -20,7 +20,7 @@
     "grunt-contrib-jasmine": "^1.0.3",
     "rollup": "^0.36.0",
     "rollup-plugin-string": "^2.0.2",
-    "semantic-release": "^15.4.1",
+    "semantic-release": "^17.2.3",
     "uglify-js": "^3.3.4",
     "travis-deploy-once": "^5.0.0"
   }
